@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hershey025
 - 👀 I’m interested in converting website into desktop app.
-- 🌱 I’m currently in class 11 and learning javascript but how to use nativefier in node js.
-- 💞️ I want to make a croos platform YouTube Desktop App with many features and options.
+- 🌱 I’m currently in class 12 and learning javascript but how to use nativefier in node js.
+- 💞️ I want to make a cross platform YouTube Desktop App with many features and options.
 - 📫 How to reach me ... email hilariousharshie025@gmail.com
 
 <!---
